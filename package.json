@@ -1,0 +1,32 @@
+{
+  "name": "prism-theme-github",
+  "version": "1.0.0",
+  "description": "Real Github themes for prism.js",
+  "main": "README.md",
+  "files": [
+    "README.md",
+    "LICENSE",
+    "themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katorlys/prism-github-themes.git"
+  },
+  "keywords": [
+    "github",
+    "theme",
+    "prism",
+    "github-theme",
+    "github-themes",
+    "prism-theme",
+    "prism-themes",
+    "github-light",
+    "github-dark"
+  ],
+  "author": "Katorly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/katorlys/prism-github-themes/issues"
+  },
+  "homepage": "https://github.com/katorlys/prism-github-themes#readme"
+}
