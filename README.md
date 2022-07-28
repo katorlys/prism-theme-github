@@ -4,14 +4,14 @@
 Real Github themes for [Prism.js](https://prismjs.com). Themes based on [Github](https://github.com).  
 ## Themes
 ### Github Light
-[![](/screenshots/github-light.png)](/themes/prism-theme-github-light.css)  
+[<img width="33%" src="/screenshots/github-light.png">](/themes/prism-theme-github-light.css)  
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/katorlys/prism-theme-github/themes/prism-theme-github-light.css">
 ```
 
 
 ### Github Dark
-[![](/screenshots/github-dark.png)](/themes/prism-theme-github-dark.css)  
+[<img width="33%" src="/screenshots/github-dark.png">](/themes/prism-theme-github-dark.css)  
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/katorlys/prism-theme-github/themes/prism-theme-github-light.css">
 ```
