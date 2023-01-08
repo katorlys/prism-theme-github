@@ -18,7 +18,7 @@ Real Github themes for [Prism.js](https://prismjs.com). Themes based on [Github]
 
 ### Github Copilot
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/katorlys/prism-theme-github/themes/prism-theme-github-light.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/katorlys/prism-theme-github/themes/prism-theme-github-copilot.css">
 ```
   
 
