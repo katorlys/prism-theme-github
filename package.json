@@ -1,6 +1,6 @@
 {
   "name": "prism-theme-github",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Real Github themes for prism.js",
   "main": "README.md",
   "files": [
@@ -21,7 +21,8 @@
     "prism-theme",
     "prism-themes",
     "github-light",
-    "github-dark"
+    "github-dark",
+    "github-copilot"
   ],
   "author": "Katorly",
   "license": "MIT",
