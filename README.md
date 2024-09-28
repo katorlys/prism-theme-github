@@ -6,11 +6,11 @@
 </a><br> -->
 
 <h1>
-  Prism Github themes
+  Prism GitHub themes
 </h1>
 
 <p>
-  Real Github themes for [Prism.js](https://prismjs.com).
+  Real GitHub themes for Prism.js.
 </p>
 
 [![Pull Requests][github-pr-badge]][github-pr-link]
@@ -23,25 +23,25 @@
 <!-- Main Body -->
 
 ## Introduction
-Real Github themes for [Prism.js](https://prismjs.com).
+Real GitHub themes for [Prism.js](https://prismjs.com).
 
-Based on [Github](https://github.com).
+Based on [GitHub](https://github.com).
 
 
 ## Themes
-### Github Light
+### GitHub Light
 [![github-light-preview](screenshots/github-light.png)](/themes/prism-theme-github-light.css)
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/katorlys/prism-theme-github/themes/prism-theme-github-light.css">
 ```
 
-### Github Dark
+### GitHub Dark
 [![github-dark-preview](screenshots/github-dark.png)](/themes/prism-theme-github-dark.css)
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/katorlys/prism-theme-github/themes/prism-theme-github-dark.css">
 ```
 
-### Github Copilot
+### GitHub Copilot
 [![github-copilot-preview](screenshots/github-copilot.png)](/themes/prism-theme-github-copilot.css)
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/katorlys/prism-theme-github/themes/prism-theme-github-copilot.css">
